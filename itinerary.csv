@@ -1,0 +1,15 @@
+Day #,Start location,End location,Distance (miles),Accomodation
+0,,Sedbury,0,"The First Hurdle Guest House, 9-10 Upper Church Street, Chepstow, NP16 5EX, United Kingdom "
+1,Sedbury Cliff,Monmouth,18.50,"Queens Head Inn 1 St James Street, Monmouth, NP25 3DL, United Kingdom"
+2,Monmouth,Pandy,17.00,"The Old Post Office. Llangattock Lingoed, Wales NP7 8RR, United Kingdom"
+3,Pandy,Hay-on-Wye,17.50,"Seven Stars 11 Broad Street, Hay-on-Wye, HR3 5DB, United Kingdom"
+4,Hay-on-Wye,Kington,14.50,"Stonewood Cottage, 5 Oxford Lane, Herefordshire, England HR5 3ED"
+5,Kington,Knighton,14.00,"The water house, Market Street, Powys, Wales LD7 1EY, United Kingdom"
+6,Knighton,Brompton Crossroads,15.00,"Offa’s Dyke Cottage, Mellington, Churchstoke, MONTGOMERY, SY15 6TH"
+7,Bromton Crossroads,Buttington Bridge,12.50,"Moors Farm, Oswestry Road, Welshpool, Powys, SY21 9JR."
+8,Buttington Bridge,Llanymynech,10.50,"Penyvoel hall, Llanymynech, SY226JY, United Kingdom"
+9,Llanymynech,Chirk Mill,14.00,"The Hand Hotel, Church Street, Chirk, LL14 5EY, United Kingdom"
+10,Chirk Mill,Llandegla,15.50,"The Raven Inn, Ffordd Rhiw Ial, Llanarmon-yn-Ial, Ruthin, CH7 4QE, United Kingdom "
+11,Llandegla,Bodfari,17.50,"The Farmer Arms Waen, St Asaph, LL17 0DY, United Kingdom "
+12,Bodfari,Prestatyn,12.00,
+,,,178.50,
