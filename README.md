@@ -14,5 +14,5 @@ the day of the walk.
 The trails were based upon those
 [found here](https://www.walkoffasdyke.co.uk/offas-dyke-interactive-map-and-route/).
 
-The `itinery.csv` file contains details of the stops, distances and daily
+The `itinerary.csv` file contains details of the stops, distances and daily
 start/end points.
